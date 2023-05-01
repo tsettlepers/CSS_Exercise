@@ -1,0 +1,49 @@
+.nav-link {
+    color: orange;
+    text-decoration: none;
+}
+
+main {
+    max-width: 600px;
+    margin-top: 44px;
+    margin-bottom: 44px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+section {
+    margin-top: 44px;
+    margin-bottom: 44px;
+    border: 3px dotted orange;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+[title="Exercise 5 Additions"] {
+    font-size: 40px;
+    font-weight: 800;
+    color: blueviolet;  /* This wasn't specified in the exercise, but I added it just to make sure the rule was being applied. */
+}
+
+.d-inline {
+    display: inline;
+}
+
+nav > ul {
+    list-style: none;
+}
+
+body {
+    background-color: #222222;
+    color: #eeeeee;
+}
+
+#avatar {
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
